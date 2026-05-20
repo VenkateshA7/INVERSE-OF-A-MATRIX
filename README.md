@@ -5,10 +5,12 @@ To write a python program to find the inverse of a matrix
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-### Step1 : 
-### Step 2: 
-### Step 3: 
-### Step 4: 
+### Step1 : Import the required libraries and read the order of the matrix along with augmented matrix elements.
+### step2 : Initialize matrices for storing coefficients and solution values.
+### step 3 : Apply Gaussian elimination to convert the augmented matrix into upper triangular form.
+### step 4 : Perform back substitution to calculate the values of unknown variables.
+### step 5 : Display the final solutions of the system of equations.
+
 
 ## Program:
 <img width="431" height="395" alt="image" src="https://github.com/user-attachments/assets/a6a078eb-52b8-497b-9150-af86755f2768" />
